@@ -17,7 +17,6 @@ I’m Arbab, a passionate coder who loves creating smooth, interactive user expe
 - **Advanced full-stack development** techniques.
 
 🌱 **Currently learning:**  
-- UI/UX Design  
 - AI, ML, and Deep Learning  
 - Advanced JavaScript and Frontend frameworks
 
@@ -52,9 +51,6 @@ When I’m not coding, you can find me gaming, working on my art, or exploring n
 ---
 
 [![](https://visitcount.itsvg.in/api?id=itsarbab0&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## 👨‍💻 Coding Animation:
-[![Coding Animation](https://img.freepik.com/premium-ai-image/unrecognizable-man-office-anonymous-employee-workplace-businessman-working-cubicle-facel_209558743.htm#fromView=keyword&page=1&position=20&uuid=b24ff5af-b8d5-4d72-b661-29dc74548016&query=Coding+Animation)](https://www.freepik.com/premium-ai-image/unrecognizable-man-office-anonymous-employee-workplace-businessman-working-cubicle-facel_209558743.htm#fromView=keyword&page=1&position=20&uuid=b24ff5af-b8d5-4d72-b661-29dc74548016&query=Coding+Animation)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsarbab0/itsarbab0/output/github-snake-dark.svg" />
