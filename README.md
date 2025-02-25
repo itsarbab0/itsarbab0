@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Arbab Kareem
+<!-- # 👋 Hello, I'm Arbab Kareem
 ## 🎯 About Me:
 I’m Arbab, a passionate coder who loves creating smooth, interactive user experiences and developing full-stack applications. Currently on a journey to merge design and development, focusing on UI/UX and enhancing my AI/ML skills.
 
@@ -58,11 +58,11 @@ When I’m not coding, you can find me gaming, working on my art, or exploring n
   <img alt="github-snake" src="https://raw.githubusercontent.com/itsarbab0/itsarbab0/output/github-snake.svg" />
 </picture>
 
+ -->
 
 
 
-
-<!-- # 👋 Hello, I'm Arbab Kareem
+# 👋 Hello, I'm Arbab Kareem
 # 💫 About Me:
 👋 Hey there! Welcome to my GitHub Profile!<br>🎯 I'm currently working on:<br>🚀 Exploring UI/UX Design while improving my frontend development skills.<br>📱 Enhancing my past projects Garigator and Rahbar Tour Guide for better user experience.<br><br>🤝 I'm looking to collaborate on:<br>🔹 Frontend development projects using HTML, CSS, JavaScript, and frameworks.<br>🔹 Django-based web applications and backend development.<br>🔹 UI/UX design projects to gain more hands-on experience.<br><br>🤔 I'm looking for help with:<br>🧠 Getting started with AI, ML, and Deep Learning (DL).<br>🎨 Improving user experience (UX) design best practices.<br>⚙️ Advanced full-stack development techniques.<br><br>🌱 I'm currently learning:<br>🖌️ UI/UX Design<br>🤖 Artificial Intelligence, Machine Learning, and Deep Learning<br>💻 Advanced JavaScript and Frontend frameworks<br><br>💬 Ask me about:<br>💡 C, C++, Python, JavaScript, C#, and Django<br>🌍 Frontend development & UI/UX<br>🚀 Tour Guide Apps (Garigator & Rahbar)<br><br>⚡ Fun fact:<br>🎮 I enjoy building real-world projects to apply what I learn!
 
@@ -90,4 +90,4 @@ When I’m not coding, you can find me gaming, working on my art, or exploring n
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsarbab0/itsarbab0/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsarbab0/itsarbab0/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/itsarbab0/itsarbab0/output/github-snake.svg" />
-</picture> -->
+</picture>
